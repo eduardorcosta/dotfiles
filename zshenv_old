@@ -1,0 +1,4 @@
+if [ -r ~/.zshrc ]; then
+   source ~/.zshrc
+fi
+export JAVA_HOME=`/usr/libexec/java_home -v 1.8`

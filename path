@@ -1,0 +1,4 @@
+export GOPATH=$HOME/go
+export PATH=$GOPATH:$GOPATH/bin:$PATH
+export PATH=$PATH:$HOME/Development/flutter/bin
+export PATH=$PATH:$HOME/Development/flutter/bin/cache/dart-sdk/bin
